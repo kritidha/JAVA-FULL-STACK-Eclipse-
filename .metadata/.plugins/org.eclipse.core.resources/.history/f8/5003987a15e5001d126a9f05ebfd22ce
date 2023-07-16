@@ -1,0 +1,21 @@
+package com.Technicalinterview.letsConnect;
+
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.boot.builder.SpringApplicationBuilder;
+import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
+
+import com.Technicalinterview.letsConnect.Entity.Users;
+
+@SpringBootApplication
+public class LetsConnectApplication{
+
+	public static void main(String[] args) {
+		SpringApplication.run(LetsConnectApplication.class, args);
+		
+        
+	}
+	
+}

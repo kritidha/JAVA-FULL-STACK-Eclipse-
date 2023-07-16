@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>Add New Employee</h1>  
+<form class="Container" action="SaveServlet" method="post">  
+<table class="form-control" >  
+<tr class="form-control" ><td>Name:</td><td><input class="form-control"  type="text" name="name"/></td></tr>  
+<tr class="form-control" ><td>Password:</td><td><input class="form-control"  type="password" name="password"/></td></tr>  
+<tr class="form-control" ><td>Email:</td><td><input class="form-control" type="email" name="email"/></td></tr>  
+<tr class="form-control" ><td>Country:</td><td>  
+<select  class="form-control" name="country" style="width:150px">  
+<option>India</option>  
+<option>USA</option>  
+<option>UK</option>  
+<option>Other</option>  
+</select>  
+</td></tr>  
+<tr><td colspan="2"><input type="submit" class="btn btn-primary" value="Save Employee"/></td></tr>  
+</table>  
+</form>  
+  
+<br/>  
+<a class="navbar-brand" href="ViewServlet">view employees</a>  
+</body>
+</html>

@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=C\:/Users/hp1/eclipse/jee-2022-12/eclipse/
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk-18.0.2.1/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk-18.0.2.1/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/hp1/.p2/pool/plugins/org.junit_4.13.2.v20211018-1956.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/hp1/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=17
+org.eclipse.jdt.core.compiler.compliance=17
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.release=enabled
+org.eclipse.jdt.core.compiler.source=17
+org.eclipse.jdt.core.userLibrary.struts=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="false" version\="2">\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/commons-fileupload-1.2.2.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/commons-io-2.0.1.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/commons-lang-2.5.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/commons-logging-1.1.1.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/commons-logging-api-1.1.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/freemarker-2.3.18.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/javassist-3.11.0.GA.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/ognl-3.0.4.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/struts2-core-2.3.1.2.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/struts2-dojo-plugin-2.3.1.2.jar"/>\r\n\t<archive path\="C\:/Users/hp1/Downloads/lib/lib/xwork-core-2.3.1.2.jar"/>\r\n</userlibrary>\r\n

@@ -1,0 +1,15 @@
+package com.Technicalinterview.letsConnect.Service;
+
+import java.util.ArrayList;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.Technicalinterview.letsConnect.Entity.Comments;
+import com.Technicalinterview.letsConnect.Entity.Status;
+import com.Technicalinterview.letsConnect.Repository.CommentRepo;
+
+@Service
+public class CommentsService {
+
+}

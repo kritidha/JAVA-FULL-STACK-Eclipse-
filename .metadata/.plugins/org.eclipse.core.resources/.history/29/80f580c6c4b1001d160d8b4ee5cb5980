@@ -1,0 +1,11 @@
+package com.thread;
+
+public class Thread2 {
+
+	public Thread2() {
+		
+		
+		// TODO Auto-generated constructor stub
+	}
+
+}

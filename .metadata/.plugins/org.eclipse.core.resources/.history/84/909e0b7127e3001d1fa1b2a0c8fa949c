@@ -1,0 +1,5 @@
+package com.Technicalinterview.letsConnect.Entity;
+
+public class Comments {
+
+}
